@@ -34,19 +34,19 @@ The **Ride IT Analysis** dashboard provides comprehensive insights into booking 
 
 ### 3. Driver Performance
 * Evaluation of driver segments (Top Performers, Good, Needs Attention) alongside ratings and marketing opt-in stats.
-![Driver Performance](3.Driver Performance.JPG)
+![Driver Performance](3.Driver_Performance.JPG)
 
 ### 4. Rides & Bookings Operations
 * Analysis of offer-to-ride conversion rates, booking success rates, and cancellation analytics by country and service type.
-![Rides & Bookings Operations](4.Rides&Bookings Operations.JPG)
+![Rides & Bookings Operations](4.Rides&Bookings_Operations.JPG)
 
 ### 5. Driver Segmentation & Retention
 * Monthly active riders, gold driver counts, and rider activity buckets (High, Medium, Low activity).
-![Driver Segmentation & Retention](5.Driver Segmentation & Retention.JPG)
+![Driver Segmentation & Retention](5.DriverSegmentation&Retention.JPG)
 
 ### 6. Country & Service Analysis
 * Comparative metrics between TAXI and PHV service types across multiple operational years.
-![Country & Service Analysis](6.Country & Service Analysis.JPG)
+![Country & Service Analysis](6.Country&ServiceAnalysis.JPG)
 
 ---
 
